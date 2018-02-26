@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CellXConfiguration creator="CellXGui" timestamp="2013_09_09__17_06_38">
+<CellXParam name="membraneIntensityProfile">
+<ArrayElement value="0.027616024731965397"/>
+<ArrayElement value="0.021759046564578777"/>
+<ArrayElement value="0.012502513623835306"/>
+<ArrayElement value="0.013790699122547118"/>
+<ArrayElement value="0.055877559630460275"/>
+<ArrayElement value="0.12192467041441317"/>
+<ArrayElement value="0.15173696338460085"/>
+<ArrayElement value="0.10337479923296303"/>
+<ArrayElement value="0.0028963303334414918"/>
+<ArrayElement value="-0.07901386473464832"/>
+<ArrayElement value="-0.11999656624366563"/>
+<ArrayElement value="-0.12395313598970907"/>
+<ArrayElement value="-0.10348938921017281"/>
+<ArrayElement value="-0.07327223794038992"/>
+<ArrayElement value="-0.04053392362312826"/>
+<ArrayElement value="-0.015469514348192657"/>
+<ArrayElement value="0.0012584944850793326"/>
+<ArrayElement value="0.011435159924902662"/>
+<ArrayElement value="0.015373327020964486"/>
+<ArrayElement value="0.016183043620154783"/>
+</CellXParam>
+<CellXParam name="membraneLocation" value="11"/>
+<CellXParam name="membraneWidth" value="3"/>
+<CellXParam name="maximumCellLength" value="120"/>
+<CellXParam name="seedRadiusLimit">
+<ArrayElement value="17"/>
+<ArrayElement value="23"/>
+</CellXParam>
+<CellXParam name="isHoughTransformOnCLAHE" value="0"/>
+<CellXParam name="seedSensitivity" value="0.2"/>
+<CellXParam name="isGraphCutOnCLAHE" value="0"/>
+<CellXParam name="claheClipLimit" value="0.01"/>
+<CellXParam name="claheBlockSize" value="100"/>
+<CellXParam name="maximumMinorAxisLengthHoughRadiusRatio" value="1.7"/>
+<CellXParam name="requiredFractionOfAcceptedMembranePixels" value="0.85"/>
+<CellXParam name="overlapMergeThreshold" value="0.8"/>
+<CellXParam name="overlapResolveThreshold" value="0.2"/>
+<CellXParam name="nuclearVolumeFraction" value="0.07"/>
+<CellXParam name="intensityBrightAreaPercentage" value="0.3"/>
+<CellXParam name="spatialMotionFactor" value="50"/>
+<CellXParam name="maxGapConnectionDistance" value="3"/>
+</CellXConfiguration>

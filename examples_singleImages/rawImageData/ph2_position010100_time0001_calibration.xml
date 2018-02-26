@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CellXConfiguration creator="CellXGui" timestamp="2013_09_11__08_31_40">
+<CellXParam name="membraneIntensityProfile">
+<ArrayElement value="0.04757315728650558"/>
+<ArrayElement value="0.053804090343548085"/>
+<ArrayElement value="0.07017000296658385"/>
+<ArrayElement value="0.07157879822359184"/>
+<ArrayElement value="0.07807307094563182"/>
+<ArrayElement value="0.06785462853499463"/>
+<ArrayElement value="0.05803911020194908"/>
+<ArrayElement value="0.020309587379178103"/>
+<ArrayElement value="-0.020958472253585318"/>
+<ArrayElement value="-0.056307864989439814"/>
+<ArrayElement value="-0.0939280227054359"/>
+<ArrayElement value="-0.13192520223689277"/>
+<ArrayElement value="-0.16428288369662916"/>
+</CellXParam>
+<CellXParam name="membraneLocation" value="8"/>
+<CellXParam name="membraneWidth" value="3"/>
+<CellXParam name="maximumCellLength" value="56"/>
+<CellXParam name="seedRadiusLimit">
+<ArrayElement value="24"/>
+<ArrayElement value="34"/>
+</CellXParam>
+<CellXParam name="isHoughTransformOnCLAHE" value="1"/>
+<CellXParam name="seedSensitivity" value="0.05"/>
+<CellXParam name="isGraphCutOnCLAHE" value="1"/>
+<CellXParam name="claheClipLimit" value="0.01"/>
+<CellXParam name="claheBlockSize" value="100"/>
+<CellXParam name="maximumMinorAxisLengthHoughRadiusRatio" value="1.7"/>
+<CellXParam name="requiredFractionOfAcceptedMembranePixels" value="0.85"/>
+<CellXParam name="overlapMergeThreshold" value="0.8"/>
+<CellXParam name="overlapResolveThreshold" value="0.2"/>
+<CellXParam name="nuclearVolumeFraction" value="0.07"/>
+<CellXParam name="intensityBrightAreaPercentage" value="0.3"/>
+<CellXParam name="spatialMotionFactor" value="50"/>
+<CellXParam name="maxGapConnectionDistance" value="3"/>
+</CellXConfiguration>
